@@ -1,0 +1,5 @@
+{
+  "name": "LLM Checker Pro",
+  "description": "A comprehensive dashboard for the LLM Checker system. Simulates model discovery, manages a local database of LLMs, and provides system insights using Gemini AI.",
+  "requestFramePermissions": []
+}
